@@ -71,4 +71,5 @@ module.exports = {
   greet,
   hummusReview,
   cat,
+  defaults,
 };
